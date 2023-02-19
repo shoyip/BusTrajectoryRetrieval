@@ -1,3 +1,5 @@
 data/
 cref_env/
 jupyter_notebooks/
+.jupyter/
+.env
